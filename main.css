@@ -1,0 +1,30 @@
+
+
+h1 {
+    text-align: center;
+}
+
+.hidden {
+    visibility: hidden;
+}
+body {
+    background: black;
+    color: aqua;
+}
+#btn {
+    color: aqua;
+    background: black;
+    border-radius: 6px;
+    outline: none;
+    width: 80px;
+    height: 40px;
+    font-size: 1rem;
+    align-items: center;
+    transition: all 2s ease;
+}
+#btn:hover {
+    color: black;
+    background: aqua;
+}
+
+
